@@ -21,7 +21,7 @@ Je suis un étudiant en développeur web et application.
 ![Symfony](https://img.shields.io/badge/Symfony6-000000?style=for-the-badge&logo=symfony&logoColor=white)  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
 
-#€# 🗄️ Base de Données  
+### 🗄️ Base de Données  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![SQLServer](https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
 

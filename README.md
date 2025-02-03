@@ -8,3 +8,4 @@ Je suis un étudiant en développeur web et application.
 - Back-end: Java, Python, C++
 - Framework: Angular, Symfony6, Laravel
 - Base de données: MySQL, SQLServer
+- Langues: Français, English

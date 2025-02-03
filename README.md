@@ -2,6 +2,8 @@
 
 Je suis un étudiant en développeur web et application.
 
+<br>
+
 ## Technologies et Compétences
 
 ### 🖥️ Front-end  

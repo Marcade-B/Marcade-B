@@ -1,4 +1,4 @@
-# Bonjour, Je suis Benoît 👋
+## Bonjour, Je suis Benoît 👋
 
 Je suis un étudiant en développeur web et application.
 

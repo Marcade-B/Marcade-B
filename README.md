@@ -2,9 +2,7 @@
 
 Je suis un étudiant en développeur web et application.
 
-## Skills
-
-# Technologies et Compétences
+## Technologies et Compétences
 
 ## 🖥️ Front-end  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  

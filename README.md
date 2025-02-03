@@ -4,7 +4,7 @@ Je suis un étudiant en développeur web et application.
 
 ## Skills
 
-- Font-end: HTML, CSS, JavaScript, Bootstrap
+- Font-end: HTML, CSS, JavaScript, PHP, Bootstrap
 - Back-end: Java, Python, C++
 - Framework: Angular, Symfony6, Laravel
 - Base de données: MySQL, SQLServer
